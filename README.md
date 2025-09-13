@@ -6,7 +6,18 @@
 Source: https://www.figma.com/design/1CfKy91QC3l813rP0C8TIu/RRF-landing-page?node-id=28-2&p=f&t=fHDCqbjwEakzcw2z-0
 
 ### Class 01: 
-- Addingn Theme Folder, and Essentials Files (style.css, index.php, function.php, screenshot.png)
+- Addingn Theme Folder, and Essentials Files 
+    - style.css, 
+    - index.php, 
+    - function.php, 
+    - screenshot.png
 ### Class 02: 
 - Adding Content for style.css
-- Explaining different files ( config.php, .htaccess)
+- Explaining different files 
+    - wp-config.php, 
+    - .htaccess, 
+    - wp-config-sample.php,
+    - function.php
+- Other Concepts Covered
+    - Upload Folder
+    - Child Theme
