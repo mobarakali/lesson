@@ -1,0 +1,13 @@
+ .DS_Store
+*.log
+node_modules/
+vendor/
+.env
+.idea/
+*.iml
+*.swp
+Thumbs.db
+*.bak
+*.tmp
+*.old
+*.orig
