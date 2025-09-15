@@ -39,4 +39,4 @@
 ### Class 04: Create Header & Footer | How to Load CSS, JS, Fonts in Theme
 - Functions
     - [language_attributes()](ref/functions/language_attributes().md)
-    - [bloginfo()](ref/functions/bloginfo().md#3-charset-html-meta-tag-এ-জন্য)
+    - [bloginfo()](ref/functions/bloginfo().md#3%EF%B8%8F⃣-charset-html-meta-tag-এর-জন্য)
