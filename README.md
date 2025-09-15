@@ -25,13 +25,18 @@
 
 ### Class 03: Asset Link | Classic, Block, Child Theme | Text Domain, Hook
 - Screen Options
-- [get_template_directory_uri()](docs/functions/get_template_directory_uri.md)
-- [Type of Themes](docs/theme-types.md)
-    - [Block Theme](docs/block-theme.md)
-    - [Classic Theme](docs/clasic-theme.md)
-        - [Hybrid Theme](docs/hybrid-themes.md)
-- [Child Theme](docs/child-theme.md)
-- [Text Domain](docs/text-domain.md)
-- [function.php](docs/function.php.md)
+- [get_template_directory_uri()](ref/functions/get_template_directory_uri.md)
+- [Type of Themes](ref/theme-types.md)
+    - [Block Theme](ref/block-theme.md)
+    - [Classic Theme](ref/clasic-theme.md)
+        - [Hybrid Theme](ref/hybrid-themes.md)
+- [Child Theme](ref/child-theme.md)
+- [Text Domain](ref/text-domain.md)
+- [function.php](ref/function.php.md)
 - Hooks
-    -[wp_enqueue_scripts()](docs/hooks/action/wp_enqueue_scripts.md)
+    -[wp_enqueue_scripts()](ref/hooks/action/wp_enqueue_scripts.md)
+
+### Class 04: Create Header & Footer | How to Load CSS, JS, Fonts in Theme
+- Functions
+    - [language_attributes()](ref/functions/language_attributes().md)
+    - [bloginfo()](ref/functions/bloginfo().md#3-charset-html-meta-tag-এ-জন্য)
