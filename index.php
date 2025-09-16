@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html <?php language_attributes() ?>>
 <head>
-    <meta charset="UTF-8">
+    <meta charset="<?php bloginfo('charset') ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lesson</title>
+    <title><?php bloginfo('name')?> - <?php bloginfo('description') ?></title>
     <!----- link css file ----->
     <link rel="stylesheet" href="<?php echo get_template_directory_uri() ?>/assets/css/style.css">
 
@@ -22,9 +22,9 @@
     <!-- Boxicons CDN -->
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
 
-
+    <?php wp_head() ?>
 </head>
-<body>
+<body <?php body_class() ?>>
     <header>
         <div class="container">
             <div class="header-wrapper">

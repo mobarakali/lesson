@@ -37,6 +37,12 @@
     -[wp_enqueue_scripts()](ref/hooks/action/wp_enqueue_scripts.md)
 
 ### Class 04: Create Header & Footer | How to Load CSS, JS, Fonts in Theme
-- Functions
-    - [language_attributes()](ref/functions/language_attributes().md)
-    - [bloginfo()](ref/functions/bloginfo().md#3%EF%B8%8F⃣-charset-html-meta-tag-এর-জন্য)
+- [language_attributes()](ref/functions/language_attributes().md)
+- [bloginfo()](ref/functions/bloginfo().md)
+    - Character Set - [bloginfo('charset')](ref/functions/bloginfo().md#3%EF%B8%8F⃣-charset-html-meta-tag-এর-জন্য) 
+    - Site Title - [bloginfo('name')](ref/functions/bloginfo().md#1%EF%B8%8F⃣-সাইটের-নাম-দেখানো) 
+    - Tagline - [bloginfo('description')](ref/functions/bloginfo().md#2%EF%B8%8F⃣-সাইটের-বর্ণনা-tagline-দেখানো) 
+    - Site URL - [bloginfo('url')](ref/functions/bloginfo().md#4%EF%B8%8F⃣-সাইটের-url) 
+- [wp_head()](ref/functions/wp_head().md)
+- [body_class()](ref/functions/body_class().md)
+- [wp_enqueue _style()](ref/functions/wp_enqueue _style().md)
